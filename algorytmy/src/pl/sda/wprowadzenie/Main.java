@@ -9,6 +9,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+        mojaNowaMetodaJava();
 
 
         wywolajLista();
@@ -22,6 +23,10 @@ public class Main {
         //  wywolajStosTab();
 
 
+    }
+
+    public static void mojaNowaMetodaJava() {
+        System.out.println("super");
     }
 
 
