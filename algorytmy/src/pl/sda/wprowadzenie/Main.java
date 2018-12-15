@@ -10,6 +10,11 @@ public class Main {
 
     public static void main(String[] args) {
         mojaNowaMetodaJava();
+        int i = 1;
+        int n = 10;
+        for (i = 1; i < n; i++) {
+            System.out.println("sprzedam gita");
+        }
 
 
         wywolajLista();
